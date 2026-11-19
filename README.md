@@ -1,8 +1,8 @@
 # Feature Efficiency, Conformal Coverage and Subgroup Performance Under Institutional Shift — Analysis Code
 
-Code accompanying *"Compressed Representations and False-Negative-Rate Control
-Transfer Across Institutions in Multi-Label Chest Radiography: A Prespecified
-Evaluation of Four Deployment Claims"* (submitted to *BMC Medical Imaging*).
+Code accompanying *"Cross-Institutional Evaluation of Feature
+Compression, Conformal Prediction, and
+Age-Related Disparities in Chest Radiography"* (submitted to *Journal Name*).
 
 Every number and figure in the manuscript is reproducible from this code plus the
 two public source datasets. No images, model checkpoints or cached embeddings are
@@ -212,8 +212,8 @@ Code licence: [choose and state, e.g. MIT or Apache-2.0 — add a `LICENSE` file
 
 ## 7. Citation
 
-> [Author list]. Compressed representations and false-negative-rate control
-> transfer across institutions in multi-label chest radiography: a prespecified
-> evaluation of four deployment claims. *BMC Med Imaging*. [year]. DOI: [to be assigned]
+> [Kirti Swagat Mohanty]. Cross-Institutional Evaluation of Feature
+Compression, Conformal Prediction, and
+Age-Related Disparities in Chest Radiography. *Journal Name*. [2026]. DOI: [to be assigned]
 
 Archived release: [Zenodo DOI once deposited].
