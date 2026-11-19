@@ -1,0 +1,35 @@
+{
+  "created": "2026-09-20T23:38:34",
+  "seed": 42,
+  "scope": "frontal only",
+  "source": {
+    "train_a": "train_split.csv",
+    "train_bc": "val_split.csv",
+    "note": "B and C are a patient-level 50/50 division of val_split.csv"
+  },
+  "splits": {
+    "train_a": {
+      "csv": "train_a.csv",
+      "rows": 153016,
+      "patients": 51627,
+      "studies": 150293,
+      "sha256_paths": "dec12e62f2b952b3468fafcdb1f7a03dbeddea69b087c19bfa87f6da816be0c1"
+    },
+    "train_b": {
+      "csv": "train_b.csv",
+      "rows": 19319,
+      "patients": 6453,
+      "studies": 18995,
+      "sha256_paths": "50a81fbb25c76b4c807229f47d2438c7ab88338beda89e3df2c1bc955afb7f6f"
+    },
+    "train_c": {
+      "csv": "train_c.csv",
+      "rows": 18692,
+      "patients": 6454,
+      "studies": 18337,
+      "sha256_paths": "77816dde3b6805e9a4b166ac9a65be9406de04e62746f8443047d5a1b0721408"
+    }
+  },
+  "sha256_combined": "0f22aeea38a9bb0256bfe418cd8ad6a98117eb98ad1eaa780c643ea1ebda06ab",
+  "warnings": []
+}

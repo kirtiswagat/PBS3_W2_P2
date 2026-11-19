@@ -1,0 +1,25 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Run logs - regenerate by re-running the pipeline
+*.log
+nohup.out
+
+# Large cached artifacts - not redistributed (see README)
+embeddings/
+embeddings_*/
+*.npz
+*.h5
+
+# Source datasets are obtained from their custodians, never vendored here
+Dataset/
+CheXpert-v1.0-small/
+NIH/
+
+# Environments and editor state
+.venv/
+venv*/
+.DS_Store
+.idea/
+.vscode/
